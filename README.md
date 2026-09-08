@@ -125,7 +125,8 @@ Hello from DevOps Project 🚀
 **Adarsh Sarthak**
 
 * BCA Student | DevOps Enthusiast
-* GitHub: https://github.com/Adarsh21862
+* GitHub: https://github.com/BCA-310-21862-ADARSH-SARTHAK
+
 
 ---
 
